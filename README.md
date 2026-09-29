@@ -1,4 +1,4 @@
-# Smart Banner
+- Website: [hubstafftalent.net/profiles/lawrance-babu](https://hubstafftalent.net/profiles/lawrance-babu)# Smart Banner
 
 A WordPress plugin for stackable, site-wide announcement banners with scheduling, live countdowns, drag-to-reorder and remembered dismissals.
 
