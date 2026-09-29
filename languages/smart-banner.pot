@@ -1,0 +1,484 @@
+# Copyright (C) 2026 Lawrance Babu Gain
+# This file is distributed under the GPL-2.0-or-later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Smart Banner 2.2.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/smart-banner\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-09-29T15:49:58+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.12.0\n"
+"X-Domain: smart-banner\n"
+
+#. Plugin Name of the plugin
+#: smart-banner.php
+#: admin/admin-menu.php:20
+#: admin/admin-menu.php:21
+#: admin/banners-page.php:58
+msgid "Smart Banner"
+msgstr ""
+
+#. Plugin URI of the plugin
+#: smart-banner.php
+msgid "https://github.com/lawrancebabu/smart-banner"
+msgstr ""
+
+#. Description of the plugin
+#: smart-banner.php
+msgid "Stackable site-wide announcement banners with scheduling, live countdowns, drag-to-reorder and remembered dismissals."
+msgstr ""
+
+#. Author of the plugin
+#: smart-banner.php
+msgid "Lawrance Babu Gain"
+msgstr ""
+
+#. Author URI of the plugin
+#: smart-banner.php
+msgid "https://github.com/lawrancebabu"
+msgstr ""
+
+#: admin/admin-menu.php:31
+#: admin/admin-menu.php:32
+msgid "Banners"
+msgstr ""
+
+#: admin/admin-menu.php:40
+#: admin/admin-menu.php:41
+msgid "Diagnostics"
+msgstr ""
+
+#: admin/banners-page.php:39
+msgid "Banner created."
+msgstr ""
+
+#: admin/banners-page.php:40
+msgid "Banner updated."
+msgstr ""
+
+#: admin/banners-page.php:41
+msgid "Banner deleted."
+msgstr ""
+
+#: admin/banners-page.php:42
+msgid "Banner status changed."
+msgstr ""
+
+#: admin/banners-page.php:43
+msgid "Banner order saved."
+msgstr ""
+
+#: admin/banners-page.php:44
+msgid "Cache purge triggered across all detected caching layers."
+msgstr ""
+
+#: admin/banners-page.php:45
+msgid "The banner could not be saved."
+msgstr ""
+
+#: admin/banners-page.php:59
+msgid "Stack multiple banners with live countdowns, scheduling and smart dismiss."
+msgstr ""
+
+#: admin/banners-page.php:64
+msgid "Purge Cache"
+msgstr ""
+
+#: admin/banners-page.php:79
+msgid "Total"
+msgstr ""
+
+#: admin/banners-page.php:83
+#: admin/banners-page.php:200
+#: admin/banners-page.php:348
+#: admin/debug-page.php:91
+msgid "Active"
+msgstr ""
+
+#: admin/banners-page.php:87
+#: admin/banners-page.php:348
+msgid "Inactive"
+msgstr ""
+
+#: admin/banners-page.php:96
+msgid "Edit Banner"
+msgstr ""
+
+#: admin/banners-page.php:96
+msgid "Create Banner"
+msgstr ""
+
+#: admin/banners-page.php:104
+msgid "Content"
+msgstr ""
+
+#: admin/banners-page.php:107
+#: admin/banners-page.php:254
+#: smart-banner.php:60
+msgid "Banner Title"
+msgstr ""
+
+#: admin/banners-page.php:108
+msgid "e.g. DEAL OF THE WEEK: 20% OFF everything"
+msgstr ""
+
+#: admin/banners-page.php:112
+msgid "Sub-message"
+msgstr ""
+
+#: admin/banners-page.php:113
+msgid "Optional secondary text shown beside the title"
+msgstr ""
+
+#: admin/banners-page.php:116
+msgid "Call-to-Action"
+msgstr ""
+
+#: admin/banners-page.php:120
+msgid "Button Label"
+msgstr ""
+
+#: admin/banners-page.php:121
+msgid "e.g. Shop Now"
+msgstr ""
+
+#: admin/banners-page.php:124
+msgid "Button URL"
+msgstr ""
+
+#: admin/banners-page.php:129
+#: admin/banners-page.php:311
+msgid "Colors"
+msgstr ""
+
+#: admin/banners-page.php:133
+msgid "Background"
+msgstr ""
+
+#: admin/banners-page.php:137
+msgid "Text"
+msgstr ""
+
+#: admin/banners-page.php:141
+msgid "Button"
+msgstr ""
+
+#: admin/banners-page.php:146
+msgid "Countdown Timer"
+msgstr ""
+
+#: admin/banners-page.php:150
+msgid "Enable countdown"
+msgstr ""
+
+#: admin/banners-page.php:151
+msgid "Shows Days / Hours / Minutes / Seconds until deadline"
+msgstr ""
+
+#: admin/banners-page.php:160
+msgid "Countdown Target Date & Time"
+msgstr ""
+
+#: admin/banners-page.php:164
+#: admin/banners-page.php:312
+msgid "Position"
+msgstr ""
+
+#. translators: %s: site timezone, e.g. "Asia/Dhaka".
+#: admin/banners-page.php:181
+#, php-format
+msgid "Schedule (%s)"
+msgstr ""
+
+#: admin/banners-page.php:187
+msgid "Start"
+msgstr ""
+
+#: admin/banners-page.php:191
+msgid "End"
+msgstr ""
+
+#: admin/banners-page.php:196
+msgid "Display"
+msgstr ""
+
+#: admin/banners-page.php:201
+msgid "Banner is live on the site"
+msgstr ""
+
+#: admin/banners-page.php:212
+msgid "Sticky (fixed to top while scrolling)"
+msgstr ""
+
+#: admin/banners-page.php:213
+msgid "Applies to the whole \"Top of Site\" stack"
+msgstr ""
+
+#: admin/banners-page.php:224
+msgid "Update Banner"
+msgstr ""
+
+#: admin/banners-page.php:224
+msgid "Publish Banner"
+msgstr ""
+
+#: admin/banners-page.php:227
+msgid "Cancel"
+msgstr ""
+
+#: admin/banners-page.php:239
+msgid "Live Preview"
+msgstr ""
+
+#: admin/banners-page.php:261
+#: includes/frontend.php:58
+msgid "Days"
+msgstr ""
+
+#: admin/banners-page.php:262
+msgid "Hrs"
+msgstr ""
+
+#: admin/banners-page.php:263
+msgid "Min"
+msgstr ""
+
+#: admin/banners-page.php:264
+msgid "Sec"
+msgstr ""
+
+#: admin/banners-page.php:290
+msgid "All Banners"
+msgstr ""
+
+#: admin/banners-page.php:290
+msgid "drag to reorder"
+msgstr ""
+
+#. translators: %s: number of banners.
+#: admin/banners-page.php:294
+#, php-format
+msgid "%s banner"
+msgid_plural "%s banners"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/banners-page.php:309
+msgid "Order"
+msgstr ""
+
+#: admin/banners-page.php:310
+#: admin/debug-page.php:64
+msgid "Title"
+msgstr ""
+
+#: admin/banners-page.php:313
+msgid "Countdown"
+msgstr ""
+
+#: admin/banners-page.php:314
+#: admin/debug-page.php:65
+msgid "Status"
+msgstr ""
+
+#: admin/banners-page.php:315
+msgid "Actions"
+msgstr ""
+
+#: admin/banners-page.php:322
+msgid "Drag to reorder"
+msgstr ""
+
+#: admin/banners-page.php:343
+msgid "Off"
+msgstr ""
+
+#: admin/banners-page.php:354
+msgid "Pause"
+msgstr ""
+
+#: admin/banners-page.php:354
+msgid "Enable"
+msgstr ""
+
+#: admin/banners-page.php:356
+msgid "Edit"
+msgstr ""
+
+#: admin/banners-page.php:357
+msgid "Delete"
+msgstr ""
+
+#: admin/banners-page.php:367
+msgid "No banners yet. Create your first one above."
+msgstr ""
+
+#: admin/debug-page.php:30
+msgid "Smart Banner Diagnostics"
+msgstr ""
+
+#: admin/debug-page.php:31
+msgid "Checks the database, schedule and front-end output to explain why a banner is or is not showing."
+msgstr ""
+
+#: admin/debug-page.php:33
+msgid "1. Database"
+msgstr ""
+
+#. translators: %s: database table name.
+#: admin/debug-page.php:38
+#, php-format
+msgid "Table %s exists."
+msgstr ""
+
+#. translators: %s: database table name.
+#: admin/debug-page.php:38
+#, php-format
+msgid "Table %s is missing. Deactivate and reactivate the plugin."
+msgstr ""
+
+#. translators: 1: stored schema version, 2: expected schema version.
+#: admin/debug-page.php:41
+#, php-format
+msgid "Schema version: %1$s (expected %2$s)"
+msgstr ""
+
+#: admin/debug-page.php:45
+msgid "2. Banners and schedule"
+msgstr ""
+
+#. translators: %s: current UTC time.
+#: admin/debug-page.php:49
+#, php-format
+msgid "Now (UTC): %s"
+msgstr ""
+
+#. translators: 1: current site time, 2: site timezone.
+#: admin/debug-page.php:52
+#, php-format
+msgid "Now (site time): %1$s, %2$s"
+msgstr ""
+
+#: admin/debug-page.php:63
+msgid "ID"
+msgstr ""
+
+#: admin/debug-page.php:66
+msgid "Start (site time)"
+msgstr ""
+
+#: admin/debug-page.php:67
+msgid "End (site time)"
+msgstr ""
+
+#: admin/debug-page.php:68
+msgid "Showing now?"
+msgstr ""
+
+#: admin/debug-page.php:73
+msgid "No banners yet."
+msgstr ""
+
+#: admin/debug-page.php:79
+msgid "No: paused"
+msgstr ""
+
+#: admin/debug-page.php:81
+msgid "No: outside schedule"
+msgstr ""
+
+#: admin/debug-page.php:83
+msgid "Yes (dismissed in your browser)"
+msgstr ""
+
+#: admin/debug-page.php:85
+msgid "Yes"
+msgstr ""
+
+#: admin/debug-page.php:91
+msgid "Paused"
+msgstr ""
+
+#: admin/debug-page.php:101
+msgid "3. Front-end output"
+msgstr ""
+
+#. translators: %s: error message.
+#: admin/debug-page.php:114
+#, php-format
+msgid "Could not fetch the homepage: %s"
+msgstr ""
+
+#. translators: %d: HTTP status code.
+#: admin/debug-page.php:119
+#, php-format
+msgid "Homepage HTTP status: %d"
+msgstr ""
+
+#: admin/debug-page.php:122
+msgid "Banner script is present on a cache-busted homepage request."
+msgstr ""
+
+#: admin/debug-page.php:124
+msgid "No banner is scheduled right now, so no script is expected."
+msgstr ""
+
+#: admin/debug-page.php:126
+msgid "A banner is active but the script is missing. Check that the theme calls wp_head() and wp_footer()."
+msgstr ""
+
+#: admin/debug-page.php:137
+msgid "Cache-related response headers:"
+msgstr ""
+
+#: admin/debug-page.php:142
+msgid "4. Possible conflicts"
+msgstr ""
+
+#: admin/debug-page.php:153
+msgid "Caching or optimization plugins detected. Purge their cache after changing banners:"
+msgstr ""
+
+#: admin/debug-page.php:161
+msgid "No common caching or minification plugins detected."
+msgstr ""
+
+#: includes/database.php:22
+msgid "Top of Site"
+msgstr ""
+
+#: includes/database.php:23
+msgid "Below Header"
+msgstr ""
+
+#: includes/database.php:24
+msgid "Above Footer"
+msgstr ""
+
+#: includes/frontend.php:59
+msgid "Hours"
+msgstr ""
+
+#: includes/frontend.php:60
+msgid "Minutes"
+msgstr ""
+
+#: includes/frontend.php:61
+msgid "Seconds"
+msgstr ""
+
+#: includes/frontend.php:75
+msgid "Dismiss banner"
+msgstr ""
+
+#: smart-banner.php:61
+msgid "You have unsaved changes."
+msgstr ""
+
+#: smart-banner.php:62
+msgid "Delete this banner permanently?"
+msgstr ""
